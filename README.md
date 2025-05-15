@@ -5,7 +5,7 @@
 ## Overview
 This project implements the **Product Catalog** assignment as part of the Sutram Solutions Full Stack internship screening.
 
-- Built with Angular (frontend)
+- Built with react (frontend)
 - Backend APIs using Spring Boot / Node.js (if applicable)
 - Displays a product grid with features such as badges, ratings, color/size selection, filtering, sorting, and responsive design.
 
@@ -24,10 +24,10 @@ This project implements the **Product Catalog** assignment as part of the Sutram
 
 ### Prerequisites
 - Node.js and npm installed
-- Angular CLI installed globally (`npm install -g @angular/cli`)
+- React installed (via Create React App or Vite)
 
 ### Setup & Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name/frontend
+   git clone https://github.com/jahnavi-soniyala/jahnavi_sonayala_productCatalog.git
+   cd jahnavi_sonayala_productCatalog/client
